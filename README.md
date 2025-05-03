@@ -1,6 +1,6 @@
 # Web3dAI
 Template for Web3d development using AI development
-     [![alt text](https://img.youtube.com/vi/paj7vc0I9Jk/0.jpg)](https://www.youtube.com/watch?v=paj7vc0I9Jk)
+     [![alt text](web3d-tutorial-1-thumb.png)](https://www.youtube.com/watch?v=paj7vc0I9Jk)
 # Why Github CoPilot?
     Github copilot is NOT the bleeding edge, and that's ok. Its' features tend to be a little more thought out, or refined after others have pioneered everything. It's cheap and accessible.
 
