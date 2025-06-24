@@ -7,7 +7,7 @@ import ShadersGallery from './pages/ShadersGallery';
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
-    <Router>
+    <Router basename="/Web3dAI">
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/shaders" element={<ShadersGallery />} />
